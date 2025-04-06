@@ -22,15 +22,15 @@
                             <div>
                                 <p class="card-text"><%#Eval("Precio") %></p>
                             </div>
-          <!--                  <asp:UpdatePanel ID="UpdatePanel1" runat="server">
+           <!--        <asp:UpdatePanel ID="UpdatePanel1" runat="server">
                                 <ContentTemplate> -->
                                    <div class="row row-cols-1 row-cols-md-2 g-4  mt-auto ">                        
                                         <asp:LinkButton ID="Button1" runat="server" CssClass="btn btn-danger" OnClick="Button1_Click" CommandName="Favorito" CommandArgument='<%# Eval("ID") %>'>
                                      <i class="bi bi-heart"></i></asp:LinkButton>
                                         <asp:LinkButton ID="LinkButton1" runat="server" CssClass="btn btn-primary" CommandName="Detalle" CommandArgument='<%# Eval("ID") %>'>Detalles</asp:LinkButton>
-
                                     </div>
-         <!--                       </ContentTemplate>
+                   <!-- 
+                        </ContentTemplate>
                             </asp:UpdatePanel> -->
                         </div>
                     </div>

@@ -68,5 +68,14 @@ namespace Catalogo
 
         }
 
+        protected void LinkButton2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void LinkButton3_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -16,51 +16,13 @@ namespace Catalogo
         protected void Page_Load(object sender, EventArgs e)
         {
 
-
-            /*  if (Session["favoritos"] != null)
-              {
-                  NegocioArticulos negocio = new NegocioArticulos();
-                  List<Articulos> listaFav = new List<Articulos>();
-                  List<string> lista = (List<string>)(Session["favoritos"]);                
-
-                  foreach (var item in lista)
-                  {
-                      listaFav.Add((Articulos)negocio.listarConId(item));
-                  }
-
-                  repeater1.DataSource = listaFav;
-                  repeater1.DataBind();
-
-              }*//*
-            NegocioArticulos negocio = new NegocioArticulos();
-            NegocioFavoritos nego = new NegocioFavoritos();
-            List<Articulos> listaFav = new List<Articulos>();
-            List<FavoritosUser> ListObj = nego.listar();
-            List<string> lista = new List<string>();
-            
-            foreach (var item in ListObj)
-            {
-                lista.Add(item.IdArticulo.ToString());
-
-            }
-
-            foreach (var item in lista)
-            {
-                listaFav.Add((Articulos)negocio.listarConId(item));
-            }
-
-            repeater1.DataSource = listaFav;
-            repeater1.DataBind();*/
             if (Session["user"] != null)
             {
                 NegocioArticulos negocio = new NegocioArticulos();
                 Usuario user = (Usuario)Session["user"];
                 repeater1.DataSource = negocio.listarFavoritos(user.Id.ToString());
                 repeater1.DataBind();
-
             }
-
-
 
         }
 
@@ -73,15 +35,14 @@ namespace Catalogo
                 
                 NegocioFavoritos favoritos = new NegocioFavoritos();
                 Usuario user = (Usuario)Session["User"];
+                List<string> listaFav = (List<string>)Session["favoritos"];
                 int idArt = Convert.ToInt32(e.CommandArgument);
 
                 favoritos.eliminar(idArt,user.Id );
+                listaFav.Remove(idArt.ToString());
+                
                 Response.Redirect("Favoritos.aspx", false);
 
-                /*List<string> lista = (List<string>)(Session["favoritos"]);
-                lista.Remove(e.CommandArgument.ToString());
-                Session.Add("favoritos", lista);
-                ;*/
             }
             if (e.CommandName == "Detalle")
             {

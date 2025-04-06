@@ -24,14 +24,17 @@ namespace Catalogo
 			{
                 NegocioUsuario negocioU = new NegocioUsuario();
                 Usuario user = new Usuario();
+				NegocioFavoritos negocioF = new NegocioFavoritos();
 
 				user.Email = txtEmail.Text;
 				user.Pass = txtPassword.Text;
 
 				if (negocioU.Login(user))
 				{
-					Session.Add("user", negocioU.listar(user));				
-					Response.Redirect("MiPerfil.aspx", false);
+                    Session.Add("user", negocioU.listar(user));                  
+					List<string> listFav = negocioF.listarfav((((Usuario)Session["user"]).Id).ToString());                   
+                    Session.Add("favoritos", listFav);
+                    Response.Redirect("MiPerfil.aspx", false);
 				}
 				else
 				{

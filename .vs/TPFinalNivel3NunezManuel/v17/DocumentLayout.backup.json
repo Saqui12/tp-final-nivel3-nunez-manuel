@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "Z:\\Repo Github\\tp-final-nivel3-nunez-manuel\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5585CB60-5335-4A2F-8B3D-66A8BE8C6B37}|Catalogo\\Catalogo.csproj|z:\\repo github\\tp-final-nivel3-nunez-manuel\\catalogo\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{5585CB60-5335-4A2F-8B3D-66A8BE8C6B37}|Catalogo\\Catalogo.csproj|solutionrelative:catalogo\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5585CB60-5335-4A2F-8B3D-66A8BE8C6B37}|Catalogo\\Catalogo.csproj|z:\\repo github\\tp-final-nivel3-nunez-manuel\\catalogo\\favoritos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{5585CB60-5335-4A2F-8B3D-66A8BE8C6B37}|Catalogo\\Catalogo.csproj|solutionrelative:catalogo\\favoritos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5585CB60-5335-4A2F-8B3D-66A8BE8C6B37}|Catalogo\\Catalogo.csproj|z:\\repo github\\tp-final-nivel3-nunez-manuel\\catalogo\\favoritos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5585CB60-5335-4A2F-8B3D-66A8BE8C6B37}|Catalogo\\Catalogo.csproj|solutionrelative:catalogo\\favoritos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5585CB60-5335-4A2F-8B3D-66A8BE8C6B37}|Catalogo\\Catalogo.csproj|z:\\repo github\\tp-final-nivel3-nunez-manuel\\catalogo\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5585CB60-5335-4A2F-8B3D-66A8BE8C6B37}|Catalogo\\Catalogo.csproj|solutionrelative:catalogo\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6266B81C-34B7-4BF7-81C3-2E047DCAF639}|Negocio\\Negocio.csproj|z:\\repo github\\tp-final-nivel3-nunez-manuel\\negocio\\negociofavoritos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,12 +15,20 @@
       "RelativeMoniker": "D:0:0:{6266B81C-34B7-4BF7-81C3-2E047DCAF639}|Negocio\\Negocio.csproj|solutionrelative:negocio\\negocioarticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5585CB60-5335-4A2F-8B3D-66A8BE8C6B37}|Catalogo\\Catalogo.csproj|z:\\repo github\\tp-final-nivel3-nunez-manuel\\catalogo\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5585CB60-5335-4A2F-8B3D-66A8BE8C6B37}|Catalogo\\Catalogo.csproj|solutionrelative:catalogo\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5585CB60-5335-4A2F-8B3D-66A8BE8C6B37}|Catalogo\\Catalogo.csproj|z:\\repo github\\tp-final-nivel3-nunez-manuel\\catalogo\\favoritos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5585CB60-5335-4A2F-8B3D-66A8BE8C6B37}|Catalogo\\Catalogo.csproj|solutionrelative:catalogo\\favoritos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5585CB60-5335-4A2F-8B3D-66A8BE8C6B37}|Catalogo\\Catalogo.csproj|z:\\repo github\\tp-final-nivel3-nunez-manuel\\catalogo\\favoritos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5585CB60-5335-4A2F-8B3D-66A8BE8C6B37}|Catalogo\\Catalogo.csproj|solutionrelative:catalogo\\favoritos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5585CB60-5335-4A2F-8B3D-66A8BE8C6B37}|Catalogo\\Catalogo.csproj|z:\\repo github\\tp-final-nivel3-nunez-manuel\\catalogo\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5585CB60-5335-4A2F-8B3D-66A8BE8C6B37}|Catalogo\\Catalogo.csproj|solutionrelative:catalogo\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5585CB60-5335-4A2F-8B3D-66A8BE8C6B37}|Catalogo\\Catalogo.csproj|z:\\repo github\\tp-final-nivel3-nunez-manuel\\catalogo\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5585CB60-5335-4A2F-8B3D-66A8BE8C6B37}|Catalogo\\Catalogo.csproj|solutionrelative:catalogo\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,63 +38,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "NegocioFavoritos.cs",
               "DocumentMoniker": "Z:\\Repo Github\\tp-final-nivel3-nunez-manuel\\Negocio\\NegocioFavoritos.cs",
               "RelativeDocumentMoniker": "Negocio\\NegocioFavoritos.cs",
-              "ToolTip": "Z:\\Repo Github\\tp-final-nivel3-nunez-manuel\\Negocio\\NegocioFavoritos.cs",
-              "RelativeToolTip": "Negocio\\NegocioFavoritos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAA0AAAAAAAAAA==",
+              "ToolTip": "Z:\\Repo Github\\tp-final-nivel3-nunez-manuel\\Negocio\\NegocioFavoritos.cs*",
+              "RelativeToolTip": "Negocio\\NegocioFavoritos.cs*",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwFEAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-06T11:29:22.171Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "NegocioArticulos.cs",
               "DocumentMoniker": "Z:\\Repo Github\\tp-final-nivel3-nunez-manuel\\Negocio\\NegocioArticulos.cs",
               "RelativeDocumentMoniker": "Negocio\\NegocioArticulos.cs",
               "ToolTip": "Z:\\Repo Github\\tp-final-nivel3-nunez-manuel\\Negocio\\NegocioArticulos.cs",
               "RelativeToolTip": "Negocio\\NegocioArticulos.cs",
-              "ViewState": "AgIAAJIAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-06T11:24:02.942Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Login.aspx.cs",
               "DocumentMoniker": "Z:\\Repo Github\\tp-final-nivel3-nunez-manuel\\Catalogo\\Login.aspx.cs",
               "RelativeDocumentMoniker": "Catalogo\\Login.aspx.cs",
-              "ToolTip": "Z:\\Repo Github\\tp-final-nivel3-nunez-manuel\\Catalogo\\Login.aspx.cs",
-              "RelativeToolTip": "Catalogo\\Login.aspx.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAqwCsAAAAFAAAAAAAAAA==",
+              "ToolTip": "Z:\\Repo Github\\tp-final-nivel3-nunez-manuel\\Catalogo\\Login.aspx.cs*",
+              "RelativeToolTip": "Catalogo\\Login.aspx.cs*",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAuwC0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-06T11:19:04.826Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Favoritos.aspx.cs",
               "DocumentMoniker": "Z:\\Repo Github\\tp-final-nivel3-nunez-manuel\\Catalogo\\Favoritos.aspx.cs",
               "RelativeDocumentMoniker": "Catalogo\\Favoritos.aspx.cs",
               "ToolTip": "Z:\\Repo Github\\tp-final-nivel3-nunez-manuel\\Catalogo\\Favoritos.aspx.cs",
               "RelativeToolTip": "Catalogo\\Favoritos.aspx.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwDkAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-06T11:08:05.075Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Favoritos.aspx",
               "DocumentMoniker": "Z:\\Repo Github\\tp-final-nivel3-nunez-manuel\\Catalogo\\Favoritos.aspx",
               "RelativeDocumentMoniker": "Catalogo\\Favoritos.aspx",
@@ -107,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Default.aspx",
               "DocumentMoniker": "Z:\\Repo Github\\tp-final-nivel3-nunez-manuel\\Catalogo\\Default.aspx",
               "RelativeDocumentMoniker": "Catalogo\\Default.aspx",
@@ -120,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Default.aspx.cs",
               "DocumentMoniker": "Z:\\Repo Github\\tp-final-nivel3-nunez-manuel\\Catalogo\\Default.aspx.cs",
               "RelativeDocumentMoniker": "Catalogo\\Default.aspx.cs",

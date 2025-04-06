@@ -79,19 +79,18 @@ namespace Negocio
             }
         }
 
-        public object listarConId(string id)
+        public List<string> listarfav(string iduser)
         {
             AccesoDatos datos = new AccesoDatos();
-            // List<Articulos> lista = new List<Articulos>();
-            FavoritosUser aux = new FavoritosUser();
+            List<string> aux = new List<string>();
             try
             {
-                datos.setearConsulta("select IdUser, IdArticulo FROM FAVORITOS WHERE IdArticulo = " + id);
+                datos.setearConsulta("select IdArticulo FROM FAVORITOS WHERE IdUser = " + iduser);
                 datos.ejecutarLectura();
                 while (datos.Lector.Read())
                 {
-                    aux.IdUser = (int)datos.Lector["IdUser"];
-                    aux.IdArticulo = (int)datos.Lector["IdArticulo"];
+                    
+                     aux.Add (((int)datos.Lector["IdArticulo"]).ToString());
                 }
                 return aux;
 
