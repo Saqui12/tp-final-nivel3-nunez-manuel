@@ -1,0 +1,6 @@
+Z:\Repo Github\CatalogoNivel3\Dominio\bin\Release\Dominio.dll
+Z:\Repo Github\CatalogoNivel3\Dominio\bin\Release\Dominio.pdb
+Z:\Repo Github\CatalogoNivel3\Dominio\obj\Release\dominio.csproj.AssemblyReference.cache
+Z:\Repo Github\CatalogoNivel3\Dominio\obj\Release\dominio.csproj.CoreCompileInputs.cache
+Z:\Repo Github\CatalogoNivel3\Dominio\obj\Release\Dominio.dll
+Z:\Repo Github\CatalogoNivel3\Dominio\obj\Release\Dominio.pdb

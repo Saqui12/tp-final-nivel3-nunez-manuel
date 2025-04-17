@@ -1,0 +1,9 @@
+Z:\Repo Github\CatalogoNivel3\Datos\bin\Release\Datos.dll
+Z:\Repo Github\CatalogoNivel3\Datos\bin\Release\Datos.pdb
+Z:\Repo Github\CatalogoNivel3\Datos\bin\Release\Dominio.dll
+Z:\Repo Github\CatalogoNivel3\Datos\bin\Release\Dominio.pdb
+Z:\Repo Github\CatalogoNivel3\Datos\obj\Release\Datos.csproj.AssemblyReference.cache
+Z:\Repo Github\CatalogoNivel3\Datos\obj\Release\Datos.csproj.CoreCompileInputs.cache
+Z:\Repo Github\CatalogoNivel3\Datos\obj\Release\Datos.csproj.Up2Date
+Z:\Repo Github\CatalogoNivel3\Datos\obj\Release\Datos.dll
+Z:\Repo Github\CatalogoNivel3\Datos\obj\Release\Datos.pdb

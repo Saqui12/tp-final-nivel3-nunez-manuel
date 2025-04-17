@@ -1,0 +1,55 @@
+Z:\Repo Github\cursoC\TPFinalNivel2_Nunez\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+Z:\Repo Github\cursoC\TPFinalNivel2_Nunez\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+Z:\Repo Github\cursoC\TPFinalNivel2_Nunez\Negocio\bin\Debug\Negocio.dll
+Z:\Repo Github\cursoC\TPFinalNivel2_Nunez\Negocio\bin\Debug\Negocio.pdb
+Z:\Repo Github\cursoC\TPFinalNivel2_Nunez\Negocio\bin\Debug\Datos.dll
+Z:\Repo Github\cursoC\TPFinalNivel2_Nunez\Negocio\bin\Debug\Dominio.dll
+Z:\Repo Github\cursoC\TPFinalNivel2_Nunez\Negocio\bin\Debug\Datos.pdb
+Z:\Repo Github\cursoC\TPFinalNivel2_Nunez\Negocio\bin\Debug\Dominio.pdb
+Z:\Repo Github\cursoC\TPFinalNivel2_Nunez\Negocio\obj\Debug\Negocio.csproj.Up2Date
+Z:\Repo Github\cursoC\TPFinalNivel2_Nunez\Negocio\obj\Debug\Negocio.dll
+Z:\Repo Github\cursoC\TPFinalNivel2_Nunez\Negocio\obj\Debug\Negocio.pdb
+Z:\Repo Github\cursoC\CatalogoNivel3\Negocio\bin\Debug\Negocio.dll
+Z:\Repo Github\cursoC\CatalogoNivel3\Negocio\bin\Debug\Negocio.pdb
+Z:\Repo Github\cursoC\CatalogoNivel3\Negocio\bin\Debug\Datos.dll
+Z:\Repo Github\cursoC\CatalogoNivel3\Negocio\bin\Debug\Dominio.dll
+Z:\Repo Github\cursoC\CatalogoNivel3\Negocio\bin\Debug\Datos.pdb
+Z:\Repo Github\cursoC\CatalogoNivel3\Negocio\bin\Debug\Dominio.pdb
+Z:\Repo Github\cursoC\CatalogoNivel3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+Z:\Repo Github\cursoC\CatalogoNivel3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+Z:\Repo Github\cursoC\CatalogoNivel3\Negocio\obj\Debug\Negocio.csproj.Up2Date
+Z:\Repo Github\cursoC\CatalogoNivel3\Negocio\obj\Debug\Negocio.dll
+Z:\Repo Github\cursoC\CatalogoNivel3\Negocio\obj\Debug\Negocio.pdb
+Z:\Repo Github\CatalogoNivel3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+Z:\Repo Github\CatalogoNivel3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+Z:\Repo Github\CatalogoNivel3\Negocio\obj\Debug\Negocio.dll
+Z:\Repo Github\CatalogoNivel3\Negocio\obj\Debug\Negocio.pdb
+Z:\Repo Github\CatalogoNivel3\Negocio\bin\Debug\Negocio.dll
+Z:\Repo Github\CatalogoNivel3\Negocio\bin\Debug\Negocio.pdb
+Z:\Repo Github\CatalogoNivel3\Negocio\bin\Debug\Datos.dll
+Z:\Repo Github\CatalogoNivel3\Negocio\bin\Debug\Dominio.dll
+Z:\Repo Github\CatalogoNivel3\Negocio\bin\Debug\Datos.pdb
+Z:\Repo Github\CatalogoNivel3\Negocio\bin\Debug\Dominio.pdb
+Z:\Repo Github\CatalogoNivel3\Negocio\obj\Debug\Negocio.csproj.Up2Date
+Z:\Repo Github\tp-final-nivel3-nunez-manuel\Negocio\bin\Debug\Negocio.dll
+Z:\Repo Github\tp-final-nivel3-nunez-manuel\Negocio\bin\Debug\Negocio.pdb
+Z:\Repo Github\tp-final-nivel3-nunez-manuel\Negocio\bin\Debug\Datos.dll
+Z:\Repo Github\tp-final-nivel3-nunez-manuel\Negocio\bin\Debug\Dominio.dll
+Z:\Repo Github\tp-final-nivel3-nunez-manuel\Negocio\bin\Debug\Datos.pdb
+Z:\Repo Github\tp-final-nivel3-nunez-manuel\Negocio\bin\Debug\Dominio.pdb
+Z:\Repo Github\tp-final-nivel3-nunez-manuel\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+Z:\Repo Github\tp-final-nivel3-nunez-manuel\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+Z:\Repo Github\tp-final-nivel3-nunez-manuel\Negocio\obj\Debug\Negocio.csproj.Up2Date
+Z:\Repo Github\tp-final-nivel3-nunez-manuel\Negocio\obj\Debug\Negocio.dll
+Z:\Repo Github\tp-final-nivel3-nunez-manuel\Negocio\obj\Debug\Negocio.pdb
+Z:\Repo-Github\tp-final-nivel3-nunez-manuel\Negocio\bin\Debug\Negocio.dll
+Z:\Repo-Github\tp-final-nivel3-nunez-manuel\Negocio\bin\Debug\Negocio.pdb
+Z:\Repo-Github\tp-final-nivel3-nunez-manuel\Negocio\bin\Debug\Datos.dll
+Z:\Repo-Github\tp-final-nivel3-nunez-manuel\Negocio\bin\Debug\Dominio.dll
+Z:\Repo-Github\tp-final-nivel3-nunez-manuel\Negocio\bin\Debug\Datos.pdb
+Z:\Repo-Github\tp-final-nivel3-nunez-manuel\Negocio\bin\Debug\Dominio.pdb
+Z:\Repo-Github\tp-final-nivel3-nunez-manuel\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+Z:\Repo-Github\tp-final-nivel3-nunez-manuel\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+Z:\Repo-Github\tp-final-nivel3-nunez-manuel\Negocio\obj\Debug\Negocio.csproj.Up2Date
+Z:\Repo-Github\tp-final-nivel3-nunez-manuel\Negocio\obj\Debug\Negocio.dll
+Z:\Repo-Github\tp-final-nivel3-nunez-manuel\Negocio\obj\Debug\Negocio.pdb

@@ -1,0 +1,11 @@
+Z:\Repo Github\CatalogoNivel3\Negocio\bin\Release\Negocio.dll
+Z:\Repo Github\CatalogoNivel3\Negocio\bin\Release\Negocio.pdb
+Z:\Repo Github\CatalogoNivel3\Negocio\bin\Release\Datos.dll
+Z:\Repo Github\CatalogoNivel3\Negocio\bin\Release\Dominio.dll
+Z:\Repo Github\CatalogoNivel3\Negocio\bin\Release\Datos.pdb
+Z:\Repo Github\CatalogoNivel3\Negocio\bin\Release\Dominio.pdb
+Z:\Repo Github\CatalogoNivel3\Negocio\obj\Release\Negocio.csproj.AssemblyReference.cache
+Z:\Repo Github\CatalogoNivel3\Negocio\obj\Release\Negocio.csproj.CoreCompileInputs.cache
+Z:\Repo Github\CatalogoNivel3\Negocio\obj\Release\Negocio.csproj.Up2Date
+Z:\Repo Github\CatalogoNivel3\Negocio\obj\Release\Negocio.dll
+Z:\Repo Github\CatalogoNivel3\Negocio\obj\Release\Negocio.pdb
