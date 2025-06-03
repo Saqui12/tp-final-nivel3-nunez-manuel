@@ -17,7 +17,7 @@ Web application developed with **ASP.NET WebForms** as an initial practical expe
 
 ## Project Status
 ✅ Functional project.  
-Currently not under active development, as the focus has shifted to more modern technologies (.NET Core, Clean Architecture).
+Currently not under active development.
 
 ## Purpose
 This project represents my first hands-on experience with web development, laying the foundation for my later specialization in modern web development.
