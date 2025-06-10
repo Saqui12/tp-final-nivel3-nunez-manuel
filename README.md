@@ -22,9 +22,3 @@ Currently not under active development.
 ## Purpose
 This project represents my first hands-on experience with web development, laying the foundation for my later specialization in modern web development.
 
-## Note
-I am currently focused on backend development using modern technologies like .NET Core and React.
-
----
-
-*This project is part of my learning journey and professional transition into software development.*
