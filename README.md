@@ -19,6 +19,11 @@ Web application developed with **ASP.NET WebForms** as an initial practical expe
 ✅ Functional project.  
 Currently not under active development.
 
+http://www.catalogo-web12.somee.com/Default.aspx
+
+user : admin@admin.com
+password : admin
+
 ## Purpose
 This project represents my first hands-on experience with web development, laying the foundation for my later specialization in modern web development.
 
